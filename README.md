@@ -1,2 +1,2 @@
-# D3-challenge
-D3-challenge
+# Leaflet - Visualizing Data with Leaflet
+United States Geological Survey
