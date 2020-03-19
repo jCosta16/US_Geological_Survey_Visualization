@@ -7,4 +7,30 @@ body {
 body,
 html {
   height: 100%;
+ 
+}
+.well {
+  background-color: lightblue;
+  width: 90%;
+}
+
+.legend {
+  line-height: 18px;
+  background-color:whitesmoke;
+  margin-right: 8px;
+  padding-right: 10px;
+  border-right: 10px;
+}
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  padding-right: 10px;
+  border-right: 10px;
+  opacity: 0.5
+}
+#map{
+  width: 90%;
+  height: 80%;
 }
