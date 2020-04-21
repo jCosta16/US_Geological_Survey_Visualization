@@ -6,10 +6,10 @@ The United States Geological Survey is responsible for providing scientific data
 I'm using their data to create a visualizations os earthquakes occurrences.
 
 ## Applied Technologies
-JavaScript
-- Leaflet
-API's (JSON)
-HTML/CSS
+* JavaScript
+  - Leaflet
+* API's (JSON)
+* HTML/CSS
 
 
 ## Application
